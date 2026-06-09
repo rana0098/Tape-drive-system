@@ -52,7 +52,7 @@ F_coupling = K·(x₂ - x₁) + B·(v₂ - v₁)
 | `r₂` | 2×10⁻² m | Idler radius |
 | `J₂` | 2×10⁻⁵ kg·m² | Idler inertia |
 | `B₂` | 2×10⁻² N·m·s | Idler damping |
-| `F` | 6 N | Vacuum column constant force |
+
 
 ---
 
@@ -111,7 +111,7 @@ Iₐ(s)    s·[J₁J₂s³ + (...)s² + (...)s + r₁²B₂K + r₂²B₁K]
 **2nd-Order Approximation results:**
 - Captures **22% overshoot** and resonant peak at **300 rad/s**
 - Bode analysis confirms excellent correlation with the full-order model
-- High-frequency poles verified to have negligible effect on operational bandwidth
+- High-frequency poles verified to have a negligible effect on operational bandwidth
 
 ---
 
