@@ -182,12 +182,6 @@ Iₐ(s)    s·[J₁J₂s³ + (...)s² + (...)s + r₁²B₂K + r₂²B₁K]
 
 ---
 
-## 📄 License
-
-This project is submitted as academic coursework. Please do not copy or redistribute without permission.
-
----
-
 ## 📬 Contact
 
 **Rana Sanjideh** — rana.sanjideh@studenti.unime.it  
